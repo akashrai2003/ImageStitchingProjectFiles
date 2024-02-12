@@ -1,0 +1,7 @@
+﻿  CAF.cpp
+  FileName.cpp
+  Generating code
+  Compiler switch has changed, fall back to full compilation.
+  All 518 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project3.vcxproj -> C:\Users\akash\Desktop\Project3\x64\Release\Project3.exe
